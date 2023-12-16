@@ -1,5 +1,7 @@
 # VSEPR_angle_pytorch
-Predict the VSEPR bond angle & molecular shape with the given number of atoms, with gradient descent.
+Predict the VSEPR bond angle & molecular shape with the given number of atoms, with gradient descent. 
+
+(*The code assumes that all bonds are identical and the bond length is 1.)
 
 Requirements: numpy, pytorch, tqdm, matplotlib
 
